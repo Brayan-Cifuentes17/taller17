@@ -1,0 +1,26 @@
+# Github / VSCode AI rules
+.github/instructions/codacy.instructions.md
+
+# Build files
+build/
+coverage/
+
+# Logs
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Environment / secrets
+*.pem
+
+# OS files
+.DS_Store
+
+# IDE files
+.idea/
+*.iml
+
+# Compressed files
+*.zip
+
